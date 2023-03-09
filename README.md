@@ -17,3 +17,10 @@ I am going to build a predictive model of the car prices based on certain featur
 
 Third Step - Comparing Machine Learning Regression Models will be  use in order to predict the price
 
+
+## Data Description
+
+Dataset containing cars scraped from AutoScout24. The dataset is collected from [kaggle](https://www.kaggle.com/datasets/ander289386/cars-germany)
+
+
+
